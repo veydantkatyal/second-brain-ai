@@ -13,7 +13,8 @@ This project leverages Unsloth's optimized fine-tuning techniques to transform M
 
 All within a lightweight and efficient fine-tuned LLM.
 
-
+## Architecture Diagram
+![](./images/architecture.png)
 ## Setup & Usage
 
 1. **Clone the repository**
